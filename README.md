@@ -30,9 +30,8 @@ Results:
 
 * *Clone git repository*
 * *Make sure correct packages are installed(below)*
-* *Run train.py*
-* *Run predict.py*
-* *or for easier overall usage run NMTwithTransformer.ipynb*
+* *Run level1textsummarization.py*
+* *or optionally for easier overall usage run Level1TextSummarization.ipynb in Google Colaboratory or Jupyter Notebook*
 
 ### Prerequisites
 
