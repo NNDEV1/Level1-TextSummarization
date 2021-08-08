@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/10OVIvhWLkNPhEng1mj_KmpKoIebiMHee
 """
 
-!pip install transformers
-
 from transformers import pipeline
 
 summarizer = pipeline("summarization") # model="t5-small"
