@@ -8,7 +8,7 @@ Coming soon!
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Text summarization refers to the technique of shortening long pieces of text. The intention is to create a coherent and fluent summary having only the main points outlined in the document. Automatic text summarization is a common problem in machine learning and natural language processing (NLP). This project aims to solve that problem by summarizing a short piece of text that is limited to 1024 characters. The summarizer works quite well but is limited the size of the text that can be inputted.
+Text summarization refers to the technique of shortening long pieces of text. The intention is to create a coherent and fluent summary having only the main points outlined in the document. Automatic text summarization is a common problem in machine learning and natural language processing (NLP). This project aims to solve that problem by summarizing a short piece of text that is limited to 1024 characters. The summarizer works quite well but is limited by the size of the text that can be inputted.
 
 Here are some resources to learn about text summarization:
 
