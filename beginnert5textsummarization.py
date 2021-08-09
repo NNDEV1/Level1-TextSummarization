@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1Z-wq2xaSW-knmw7PXXv6PJ4zVpxpSF-U
 """
 
-!nvidia-smi
+#!nvidia-smi
 
-!pip install transformers==4.5.0
-!pip install pytorch.lightning==1.2.7
+#!pip install transformers==4.5.0
+#!pip install pytorch.lightning==1.2.7
 
 import json
 import pandas as pd
@@ -32,23 +32,17 @@ from transformers import T5TokenizerFast as T5Tokenizer
 
 from tqdm.auto import tqdm
 
-!unzip "/content/archive (3).zip"
+#!unzip "/content/archive (3).zip"
 
 df = pd.read_csv("/content/news_summary.csv", encoding="latin-1")
-
-df
 
 df = pd.DataFrame(data=(df["text"], df["ctext"]))
 
 df = df.T
 
-df
-
 df.columns = ["summary", "text"]
 
 df = df.dropna()
-
-df
 
 train_df, test_df = train_test_split(df, test_size=0.15)
 
@@ -277,10 +271,9 @@ text = test_df.iloc[33]
 real = text["summary"]
 text = text["text"]
 
-text
+#text
 
 summary = summarize(text)
 
 print(summary)
 
-n99real
