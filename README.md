@@ -1,4 +1,6 @@
-# Level1-TextSummarization
+# Beginner Submission with text summarizer containing pre-trained model, and trained from scratch model
+
+# Level1-PreTrained TextSummarization
 Level 1 submission for Open Source Challenge
 
 ## Demo Video
@@ -22,7 +24,56 @@ Results:
 
 ### Built With
 
-* [Transformers](https://numpy.org)
+* [Transformers](https://huggingface.co)
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+* *Clone git repository*
+* *Make sure correct packages are installed(below)*
+* *Run beginnersummarizationpretrained.pyy*
+* *or optionally for easier overall usage run BeginnerSummarizationPreTrained.ipynb.ipynb in Google Colaboratory or Jupyter Notebook*
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* transformers
+
+```pip install transformers```
+
+
+See the [open issues](https://github.com/NNDEV1/Level1-TextSummarization/issues) for a list of proposed features (and known issues).
+
+
+# Level1- From Scratch Text Summarization
+Level 1 submission for Open Source Challenge
+
+## Demo Video
+
+Coming soon!
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+New deep learning models are introduced at an increasing rate and sometimes it’s hard to keep track of all the novelties. That said, one particular neural network model has proven to be especially effective for common natural language processing tasks. The model is called a Transformer and it makes use of several methods and mechanisms that I’ll use in my project. Automatic text summarization is a common problem in machine learning and natural language processing (NLP). This project aims to solve that problem by using transformers for summarizing a short piece of text. The from scratch version, by my knowledge, is not limited by the input text's size.
+
+Here are some resources to learn about text summarization with transformers:
+
+* [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
+* [Huggingface Transformer Tasks](https://huggingface.co/transformers/task_summary.html)
+ 
+
+Results: 
+* Input: *Check .ipynb*
+* Output: *Check .ipynb*
+
+### Built With
+
+* [Transformers](https://huggingface.co)
+* [PyTorch](https://pytorch.org)
+* [NumPy](https://numpy.org)
+* [Pandas](https://pandas.org)
 
 
 <!-- GETTING STARTED -->
@@ -36,14 +87,26 @@ Results:
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* transformers
-
-```pip install transformers```
-
+* transformers:
+ ```pip install transformers==4.5.0```
+* pytorch:
+ ```pip install pytorch```
+* pytorch lightning:
+ ```pip install pytorch.lightning==1.2.7```
+* pandas:
+ ```pip install pandas```
+* numpy:
+ ```pip install numpy```
+* sklearn:
+ ```pip install sklearn```
+* tqdm:
+ ```pip install tqdm```
+* json:
+ ```pip install json```
+* pathlib:
+ ```pip install pathlib```
 
 See the [open issues](https://github.com/NNDEV1/Level1-TextSummarization/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
