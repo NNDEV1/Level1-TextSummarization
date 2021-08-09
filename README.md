@@ -46,6 +46,13 @@ This is an example of how to list things you need to use the software and how to
 See the [open issues](https://github.com/NNDEV1/Level1-TextSummarization/issues) for a list of proposed features (and known issues).
 
 
+
+
+
+
+<!-- FROM SCRATCH-->
+
+
 # Level1- From Scratch Text Summarization
 Level 1 submission for Open Source Challenge
 
@@ -81,8 +88,8 @@ Results:
 
 * *Clone git repository*
 * *Make sure correct packages are installed(below)*
-* *Run level1textsummarization.py*
-* *or optionally for easier overall usage run Level1TextSummarization.ipynb in Google Colaboratory or Jupyter Notebook*
+* *Run beginnert5textsummarization.py*
+* *or optionally for easier overall usage run BeginnerT5TextSummarization.ipynb in Google Colaboratory or Jupyter Notebook*
 
 ### Prerequisites
 
