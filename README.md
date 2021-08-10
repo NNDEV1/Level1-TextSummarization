@@ -5,7 +5,7 @@ Level 1 submission for Open Source Challenge
 
 ## Demo Video
 
-Coming soon!
+https://drive.google.com/file/d/10yS1sAPS-cm0pTsEQgo9NzH0PI57_77A/view?usp=sharing
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -58,7 +58,7 @@ Level 1 submission for Open Source Challenge
 
 ## Demo Video
 
-Coming soon!
+https://drive.google.com/file/d/1aiqh7hY0xvbXhMAzyfDTe2ofDOjCwCas/view?usp=sharing
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
