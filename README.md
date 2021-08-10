@@ -88,6 +88,8 @@ Results:
 
 * *Clone git repository*
 * *Make sure correct packages are installed(below)*
+* *Unzip "archive (3).zip"*
+* *Make sure correct path to data is in the code(For colaboratory it is correct)*
 * *Run beginnert5textsummarization.py*
 * *or optionally for easier overall usage run BeginnerT5TextSummarization.ipynb in Google Colaboratory or Jupyter Notebook*
 
@@ -112,6 +114,13 @@ This is an example of how to list things you need to use the software and how to
  ```pip install json```
 * pathlib:
  ```pip install pathlib```
+ 
+ ---
+ **NOTE**
+ 
+ Use of the from scratch model will be discontinued in intermediate and advanced versions
+ ---
+ 
 
 See the [open issues](https://github.com/NNDEV1/Level1-TextSummarization/issues) for a list of proposed features (and known issues).
 
