@@ -119,8 +119,8 @@ This is an example of how to list things you need to use the software and how to
  **NOTE**
  
  Use of the from scratch model will be discontinued in intermediate and advanced versions
- ---
  
+ ---
 
 See the [open issues](https://github.com/NNDEV1/Level1-TextSummarization/issues) for a list of proposed features (and known issues).
 
