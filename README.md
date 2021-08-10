@@ -63,7 +63,7 @@ Coming soon!
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-New deep learning models are introduced at an increasing rate and sometimes it’s hard to keep track of all the novelties. That said, one particular neural network model has proven to be especially effective for common natural language processing tasks. The model is called a Transformer and it makes use of several methods and mechanisms that I’ll use in my project. Automatic text summarization is a common problem in machine learning and natural language processing (NLP). This project aims to solve that problem by using transformers for summarizing a short piece of text. The from scratch version, by my knowledge, is not limited by the input text's size.
+New deep learning models are introduced at an increasing rate and sometimes it’s hard to keep track of all the novelties. That said, one particular neural network model has proven to be especially effective for common natural language processing tasks. The model is called a Transformer and it makes use of several methods and mechanisms that I’ll use in my project. Automatic text summarization is a common problem in machine learning and natural language processing (NLP). This project aims to solve that problem by using transformers for summarizing a short piece of text.
 
 Here are some resources to learn about text summarization with transformers:
 
